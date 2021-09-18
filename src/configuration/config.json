@@ -1,0 +1,6 @@
+{
+    "Bot": {
+        "token": "your-bot-token",
+        "developrs": ["", ""]
+    }
+}
